@@ -6,3 +6,10 @@
  • Made Home , About Us , Admissions , Programs ,  Placements , Register and Login pages in this site and also provides users to access more information about us in just a click</br>
  </br>
  • Used tech stacks are HTML, CSS, Bootstrap  , JavaScript, React ,  Nodejs  , EJS , Express and MongoDb for checking and retrieving information regarding any user who already registered
+
+ # Website Preview
+ 
+
+
+https://github.com/neeraj291020/JMD_University/assets/125685687/0f86f677-b148-4f3d-8e31-04464fefac51
+
